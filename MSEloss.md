@@ -1,4 +1,4 @@
-## MSEloss
+## MSEloss in PyTorch
 
 ```
 # import torch
